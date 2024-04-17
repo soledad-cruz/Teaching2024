@@ -1,15 +1,19 @@
 # Teaching2024
 
-## Fred Torres Cruz  
-### Ingeniería Estadística e Informática 
+## Fred Torres Cruz
+### Ingeniería Estadística e Informática
 ### Universidad Nacional del Altiplano de Puno
 
+Courses:
 
-> **CPL01 - Programming Languajes**
->> Enlace de Curso
->**CSE02 - Software Engineering**
->>Enlace de Curso
->**CPC01 - Parallel Computing**
->>Enlace de Curso
->**COM01 - Optimization Methods**
->>Enlace de Curso
+- **CPL01 - Programming Languages**
+  - [Link to Course](#) <!-- Update with your course link -->
+  
+- **CSE02 - Software Engineering**
+  - [Link to Course](#) <!-- Update with your course link -->
+  
+- **CPC01 - Parallel Computing**
+  - [Link to Course](#) <!-- Update with your course link -->
+  
+- **COM01 - Optimization Methods**
+  - [Link to Course](#) <!-- Update with your course link -->
