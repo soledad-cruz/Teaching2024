@@ -10,7 +10,7 @@ Courses:
   - [Link to Course](#) <!-- Update with your course link -->
   
 - **CSE02 - Software Engineering**
-  - [Link to Course](#) <!-- Update with your course link -->
+  - [Ver detalles](CSE02.md) 
   
 - **CPC01 - Parallel Computing**
   - [Link to Course](#) <!-- Update with your course link -->
