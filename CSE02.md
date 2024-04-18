@@ -12,6 +12,6 @@ Week 1:
 | ------- | ------- | ------- | ------- | ------- |
 | 1      | 123456   | 87654321 | Fred Torres |  https://github.com/frdtorres/Teaching2024 |
 |        |          |          |        |      |
-|        |          |          |        |      |
+| 3      |214576    | 72843035 | Garcia J. Angel R. | https://github.com/AngelgarciaJ/Software-Eng._I-Course-Works |
 |        |          |          |        |      |
 |        |          |          |        |      |
