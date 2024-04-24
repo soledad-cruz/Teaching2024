@@ -16,3 +16,4 @@ Week 1:
 |        |          |          |        |      |
 |  4     | 213883   | 73319633 | Condori G. Paul W. | https://github.com/kyo3773pw/software-engineering |
 | 5     | 213681    | 74605107 |Rosmery Luna T.| https://github.com/RLunaT/curso_vii_soft_engineer | 
+| 8      |130916    | 72372848 |Quenta Anco Lisbet Y.| https://github.com/lisbetq/tareas|
