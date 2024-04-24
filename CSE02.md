@@ -13,6 +13,6 @@ Week 1:
 | 1      | 123456   | 87654321 | Fred Torres |  https://github.com/frdtorres/Teaching2024 |
 | 2      | 214208   | 74642865 | Alex Cruz   | https://github.com/alex-raul/curs_software_alex     |
 | 3      |214576    | 72843035 | Garcia J. Angel R. | https://github.com/AngelgarciaJ/Software-Eng._I-Course-Works |
-|        |          |          |        |      |
 |  4     | 213883   | 73319633 | Condori G. Paul W. | https://github.com/kyo3773pw/software-engineering |
 | 5     | 213681    | 74605107 |Rosmery Luna T.| https://github.com/RLunaT/curso_vii_soft_engineer | 
+| 6     | 214010    | 77497740 |Yhack B. Aycaya Paco | https://github.com/T1Jack/Software-Engineering | 
