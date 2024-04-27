@@ -29,3 +29,4 @@ Week 1:
 | 16      |130916    | 72372848 |Quenta Anco Lisbet Y.| https://github.com/lisbetq/tareas|
 |  17    | 213842   | 71960947 | Carlosviza Amanqui Wladimir A. | https://github.com/vladimirwe/Software_EnginerWladimir_Aldo_Carlosviza_Amanqui |
 |18       |214540    |72314901  |Maquera Andrade Aldair Jose|https://github.com/Alenm1/Software-Eng.-course.git|
+| 19      | 213915   | 70188630 |Cruz Paredes Soledad Epifania | https://github.com/soledad-cruz/Ing-de-software-I |
