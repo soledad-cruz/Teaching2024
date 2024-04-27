@@ -22,4 +22,5 @@ Week 1:
 | 9     | 213751    | 70206970 |Katia Ticona C.| https://github.com/KatiaTicona/Software-Engineering | 
 | 10      |213842    | 71960947 | Carlosviza Amanqui Wladimir Aldo| https://github.com/vladimirwe/archd |
 | 11     | 213809    | 75521417 |Mamani R. Diego J.| https://github.com/DiegojhoelR/SOF.ENGINEERING|
+| 12      |213990    | 73648009 | Wilmer Ticona Incacutipa| https://github.com/WilmerTiconaIncacutipaUnap/Engineering-Software-I-Wilmer |
 
