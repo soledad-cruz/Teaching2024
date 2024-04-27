@@ -24,4 +24,5 @@ Week 1:
 | 11     | 213809    | 75521417 |Mamani R. Diego J.| https://github.com/DiegojhoelR/SOF.ENGINEERING|
 | 12      |213990    | 73648009 | Wilmer Ticona Incacutipa| https://github.com/WilmerTiconaIncacutipaUnap/Engineering-Software-I-Wilmer |
 |  13    | 213967    | 70376763 | Valenzuela Narvaez Luz Bella| https://github.com/Bellavalenzuela/Ingenieria_de_Software/new/main?readme=1 |
+| 14      |214809   | 75758823 | Aceituno moya Nadine Heiddy |(https://github.com/lia-nadi/Nadine...acti) |
 
