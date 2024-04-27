@@ -20,4 +20,4 @@ Week 1:
 | 7     | 214483    | 72015979 |Nelyda A. Condori C.| https://github.com/NelydaAyde/7MO-PRIMERA-UNIDAD | 
 | 8     | 213609    | 73477464 |Edilson Avalos| https://github.com/EdilsonAvalosCondori/Ingenier-a-de-software| 
 | 9     | 213751    | 70206970 |Katia Ticona C.| https://github.com/KatiaTicona/Software-Engineering | 
-
+| 10      |213842    | 71960947 | Carlosviza Amanqui Wladimir Aldo| https://github.com/vladimirwe/archd |
